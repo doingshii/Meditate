@@ -1,5 +1,4 @@
-console.log("hdff")
-
+console.log("hdff");
 
 document.getElementById("change").addEventListener("click",pictures);
 document.getElementById("this").addEventListener("click",that);
