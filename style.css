@@ -1,0 +1,94 @@
+Body
+{
+Background-image:url("https://www.wisdomportal.com/SpiritualSun/Fludd-SublimeSun(744x721).jpg");
+Background-size: 300px;
+Height:2000px;
+}
+
+
+#left-side
+{
+Background-color:white;
+Width:45%;
+Height:1640px;
+Float:left;
+Margin: 10px auto auto 40px;
+Border: outset orange 15px;
+}
+
+#right-side
+{
+Width:45%;
+Height:90%;
+Float:right;
+Margin: 10px 40px auto auto;
+
+}
+
+#one
+{
+Background-color:white;
+Width:100%;
+Height:580px;
+Border: outset orange 15px;
+}
+
+#change-pic
+{
+Width:500px;
+Height:400px;
+}
+
+#change
+{
+Width:200px;
+Height:80px;
+Margin-top:20px;
+Background-color: yellow;
+Color:red;
+Font-size: 30px;
+}
+
+#two
+{
+Margin-top:50px;
+Background-color:white;
+Width:100%;
+Height:550px;
+Border: outset orange 15px;
+}
+
+H2
+{
+Text-align: center;
+}
+
+.crystals
+{
+Width:180px;
+Height:180px;
+Position:relative;
+Margin:9px 10px 10px 10px;
+transition: width 2s, height 2s;
+}
+
+.crystals:hover
+{
+width:210px;
+height:210px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
