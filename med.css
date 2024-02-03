@@ -14,6 +14,8 @@ Height:1640px;
 Float:left;
 Margin: 10px auto auto 40px;
 Border: outset orange 15px;
+  resize:none;
+   overflow:auto;
 }
 
 #right-side
@@ -22,6 +24,8 @@ Width:45%;
 Height:90%;
 Float:right;
 Margin: 10px 40px auto auto;
+resize:none;
+   overflow:auto;
 
 }
 
@@ -77,7 +81,6 @@ transition: width 2s, height 2s;
 width:210px;
 height:210px;
 }
-
 
 
 
