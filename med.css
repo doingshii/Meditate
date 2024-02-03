@@ -5,7 +5,7 @@ Background-size:100%;
 Height:100%;
 }
 
-
+/* make a set width or it will resize depending on the screen size*/
 #left-side
 {
 Background-color:white;
@@ -17,6 +17,7 @@ Border: outset orange 15px;
   resize:none;
 }
 
+/* make a set width or it will resize depending on the screen size*/
 #right-side
 {
 Width:45%;
