@@ -30,6 +30,8 @@ x=0;
 
 
 
+
+
 /*const gems = ["amethyst", "agate", "carnelian", "rose quarts", "citrine", "black obsidian"];
 
 for(x of gems)
